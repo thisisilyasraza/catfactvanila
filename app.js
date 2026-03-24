@@ -15,8 +15,5 @@ let getFact = () => {
     });
 };
 
-
-getFact();
-
 // Button Click
 btn.addEventListener("click", getFact);
